@@ -38,6 +38,7 @@ public class Background {
     private StarGame starGame;
     private Star[] stars;
 
+
     public Background(StarGame starGame) {
         this.starGame = starGame;
         this.textureCosmos = new Texture("bg.png");
